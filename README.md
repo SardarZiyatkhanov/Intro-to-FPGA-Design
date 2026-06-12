@@ -5,6 +5,8 @@
 ![ModelSim](https://img.shields.io/badge/Simulation-ModelSim-orange)
 ![FPGA](https://img.shields.io/badge/Hardware-Cyclone%20IV-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![Last Commit](https://img.shields.io/github/last-commit/SardarZiyatkhanov/Intro-to-FPGA-Design)
+![Repo Size](https://img.shields.io/github/repo-size/SardarZiyatkhanov/Intro-to-FPGA-Design)
 
 This repository contains my lab work for **Introduction to FPGA Design**, covering digital logic design and implementation using Verilog HDL in Quartus Prime, simulation in ModelSim, and deployment on Altera/Alinx Cyclone IV FPGA boards.
 
@@ -21,6 +23,7 @@ This repository contains my lab work for **Introduction to FPGA Design**, coveri
 - [Labs Included](#labs-included)
 - [Repository Structure](#repository-structure)
 - [Tools Used](#tools-used)
+- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -59,6 +62,12 @@ Intro-to-FPGA-Design/
 - **MultiSim**
 - **Altera Cyclone IV FPGA board**
 - **Alinx AX4010 Cyclone IV FPGA board**
+
+---
+
+## Contributing
+
+This is a personal academic repository, so it isn't actively seeking code contributions. That said, if you spot an error or have a suggestion, feel free to open an issue. See [CONTRIBUTING.md](CONTRIBUTING.md) for details, including a note on academic integrity.
 
 ---
 
