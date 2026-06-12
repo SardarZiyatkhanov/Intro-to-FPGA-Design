@@ -1,0 +1,33 @@
+# Quartus Prime
+db/
+incremental_db/
+output_files/
+greybox_tmp/
+.qsys_edit/
+*.qws
+*.rpt
+*.summary
+*.smsg
+*.done
+*.qarlog
+*.qarsav
+*.sld
+*.qdb
+
+# Programming files
+*.sof
+*.pof
+*.jdi
+*.jam
+*.jbc
+
+# ModelSim / Questa
+*.wlf
+*_vsim/
+transcript
+vsim.wlf
+work/
+
+# OS files
+.DS_Store
+Thumbs.db
